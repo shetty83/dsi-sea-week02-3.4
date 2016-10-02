@@ -89,4 +89,4 @@ Use the following [Crunchbase dataset](https://raw.githubusercontent.com/suneel0
 
 [Starter code can be found here](./code/starter-code/w2-3.4-starter.ipynb).
 
-> [Solution code](./code/solution-code/w2-3.4-solution.ipynb).
+> [Solution code](./code/solution-code/w2-3.4-).
