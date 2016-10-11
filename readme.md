@@ -84,6 +84,7 @@ Use the following [Crunchbase dataset](https://raw.githubusercontent.com/suneel0
 
 - Detect missing data
 - Fill in missing data with the mean
+- Come up with some questions about the dataset and answer them using pivot table
 
 ### Starter Code
 
